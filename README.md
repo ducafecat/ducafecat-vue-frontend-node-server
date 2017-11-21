@@ -48,6 +48,9 @@ npm start
 npm start       | 开启服务
 npm run show    | 显示状态
 npm run restart | 重启服务
+npm run list    | 服务列表
+npm run stop    | 停止服务
+npm run delete  | 删除服务
 
 > 其它命令详见 `package.json -> scripts`
 
