@@ -10,12 +10,15 @@
 
 前后端分离的好处这里就不多说了 x_x~~~
 
+- [git地址](https://github.com/ducafecat/ducafecat-vue-frontend-node-server)
+
 ## 功能
 
 - 前端服务展示
 - 代理数据请求
 - 守护进程管理
 - 日志记录
+- 启用gzip
 
 ## 目录说明
 
